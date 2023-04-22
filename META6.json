@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides a 'Font::AFM' interface for 'PDF::Font::Loader'",
+  "license": "Artistic-2.0",
+  "name": "PDF::Font::Loader::Metrics",
+  "perl": "6.d",
+  "provides": {
+    "PDF::Font::Loader::Metrics": "lib/PDF/Font/Loader/Metrics.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
