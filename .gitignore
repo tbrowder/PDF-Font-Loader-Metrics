@@ -1,2 +1,4 @@
 .precomp/
 /PDF-Font-Loader-Metrics-*
+/t/*.pdf
+/dev/PDF-Font-Loader-raku

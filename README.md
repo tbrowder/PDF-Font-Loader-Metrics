@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/tbrowder/PDF-Font-Loader-Metrics/actions/workflows/linux.yml/badge.svg)](https://github.com/tbrowder/PDF-Font-Loader-Metrics/actions) [![Actions Status](https://github.com/tbrowder/PDF-Font-Loader-Metrics/actions/workflows/macos.yml/badge.svg)](https://github.com/tbrowder/PDF-Font-Loader-Metrics/actions) [![Actions Status](https://github.com/tbrowder/PDF-Font-Loader-Metrics/actions/workflows/windows.yml/badge.svg)](https://github.com/tbrowder/PDF-Font-Loader-Metrics/actions)
+
 NAME
 ====
 

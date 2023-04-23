@@ -6,6 +6,7 @@
   "build-depends": [
   ],
   "depends": [
+    "PDF::Font::Loader"
   ],
   "description": "Provides a 'Font::AFM' interface for 'PDF::Font::Loader'",
   "license": "Artistic-2.0",
@@ -16,7 +17,7 @@
   },
   "resources": [
   ],
-  "source-url": "",
+  "source-url": "https://github.com/tbrowder/PDF-Font-Loader-Metrics.git",
   "tags": [
   ],
   "test-depends": [
